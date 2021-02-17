@@ -1,0 +1,8 @@
+2021-Feb-16-15:55:21,ETL Job Started
+2021-Feb-16-15:55:25,Extract phase Started
+2021-Feb-16-15:55:26,Extract phase Ended
+2021-Feb-16-15:55:36,Transform phase Started
+2021-Feb-16-15:55:36,Transform phase Ended
+2021-Feb-16-15:55:47,Load phase Started
+2021-Feb-16-15:55:47,Load phase Ended
+2021-Feb-16-15:55:54,ETL Job Ended
